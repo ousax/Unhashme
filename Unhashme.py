@@ -1,4 +1,4 @@
-#run using Python 2 
+#!/usr/bin/python2 
 from hashlib import md5,sha1,sha224,sha256,sha384,sha512
 from sys import exit
 from os.path import exists
